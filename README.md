@@ -17,7 +17,7 @@ BitRAT CrackedIt is coded in C++ programming language. It is the latest version 
 
 
 
-This RAT can handles up to 10k bots at a single time without any kind of lag and low CPU usages. It can bind 5 files up to a time. It is the best pc remote administration tool for 2022.
+This RAT can handles up to 10k bots at a single time without any kind of lag and low CPU usages. It can bind 5 files up to a time. It is the best pc remote administration tool for 2022..
 
 This best remote desktop software 2022 supports all-new browser versions for the password recovery feature. Their password recovery feature is updated every time and recovers passwords from all updated browsers. It is the best RAT tool for 2022.
 
