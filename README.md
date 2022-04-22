@@ -36,24 +36,28 @@ Don't use this RAT for any illegal purposes because I am not responsible for any
 It is the best remote administration tool 2022 in the market which supports two modes of connection. It the 1st RAT ever which uses introduce this new feature in the market. It is the best paid rat 2022.
 
 ## Features
-Native Client Coded In C.
-Fully unicode compatible.
-Multi-mode
-Group view
-Process Manager
-Remote Shell
-Servives Manager
-Software Manager
-Thumbnail Previews
-Windows manager
-Connection Manager
-Remote Desktop
-Webcam Live Feed
-File Manager
-Keylogger
-Audio Live
-Remote Browser  Hvnc
-Password Recovery 20+ Browsers
-Xmr Miner
-Reverse Proxy
-Socks5 Proxy
+* Native Client Coded In C.
+* Fully unicode compatible.
+* Multi-mode
+* Group view
+* Process Manager
+* Remote Shell
+* Servives Manager
+* Software Manager
+* Thumbnail Previews
+* Windows manager
+* Connection Manager
+* Remote Desktop
+* Webcam Live Feed
+* File Manager
+* Keylogger
+* Audio Live
+* Remote Browser  Hvnc
+* Password Recovery 20+ Browsers
+* Xmr Miner
+* Reverse Proxy
+* Socks5 Proxy
+
+## LEGAL DISCLAIMER PLEASE READ!
+
+**I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.**
